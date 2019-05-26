@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.099eef6f.chunk.css",
+    "main.css": "/portfolio/static/css/main.18e32a69.chunk.css",
     "main.js": "/portfolio/static/js/main.08b4bcf9.chunk.js",
     "main.js.map": "/portfolio/static/js/main.08b4bcf9.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
@@ -8,9 +8,9 @@
     "static/js/2.67bd1447.chunk.js": "/portfolio/static/js/2.67bd1447.chunk.js",
     "static/js/2.67bd1447.chunk.js.map": "/portfolio/static/js/2.67bd1447.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.ef26b98bb529161cba8dceb56c188faa.js": "/portfolio/precache-manifest.ef26b98bb529161cba8dceb56c188faa.js",
+    "precache-manifest.8aa0a55155cdc39c9e49f0064a54c0db.js": "/portfolio/precache-manifest.8aa0a55155cdc39c9e49f0064a54c0db.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.099eef6f.chunk.css.map": "/portfolio/static/css/main.099eef6f.chunk.css.map",
-    "static/media/index.css": "/portfolio/static/media/Brix-Sans-Regular.b7b7cb4b.otf"
+    "static/css/main.18e32a69.chunk.css.map": "/portfolio/static/css/main.18e32a69.chunk.css.map",
+    "static/media/index.css": "/portfolio/static/media/BrixSansRegular.c72fb736.woff"
   }
 }
